@@ -17,7 +17,6 @@
     { "name": "code-simplifier", "source": "./plugins/code-simplifier" },
     { "name": "security-scanning", "source": "./plugins/security-scanning" },
     { "name": "systems-programming", "source": "./plugins/systems-programming" },
-    { "name": "codex", "source": "./plugins/codex" },
     { "name": "data-engineering", "source": "./plugins/data-engineering" },
     { "name": "code-modernization", "source": "./plugins/code-modernization" },
     { "name": "open-design", "source": "./plugins/open-design" }
