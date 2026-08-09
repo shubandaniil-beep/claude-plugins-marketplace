@@ -1,0 +1,8 @@
+{
+  "name": "skill-tracker",
+  "description": "Before every response, Claude reports which Skills, plugins, or MCP tools it used in that turn.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shubandaniil-beep"
+  }
+}

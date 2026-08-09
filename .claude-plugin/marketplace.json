@@ -19,6 +19,7 @@
     { "name": "systems-programming", "source": "./plugins/systems-programming" },
     { "name": "data-engineering", "source": "./plugins/data-engineering" },
     { "name": "code-modernization", "source": "./plugins/code-modernization" },
-    { "name": "open-design", "source": "./plugins/open-design" }
+    { "name": "open-design", "source": "./plugins/open-design" },
+    { "name": "skill-tracker", "source": "./plugins/skill-tracker" }
   ]
 }
