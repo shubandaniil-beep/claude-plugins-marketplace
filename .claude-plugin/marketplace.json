@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins-marketplace",
+  "description": "Personal Claude Code plugin marketplace",
+  "owner": {
+    "name": "shubandaniil-beep"
+  },
+  "plugins": [
+    { "name": "superpowers", "source": "./plugins/superpowers" },
+    { "name": "caveman", "source": "./plugins/caveman" },
+    { "name": "andrej-karpathy-skills", "source": "./plugins/andrej-karpathy-skills" },
+    { "name": "ui-ux-pro-max", "source": "./plugins/ui-ux-pro-max" },
+    { "name": "marketing-skills", "source": "./plugins/marketing-skills" },
+    { "name": "context7", "source": "./plugins/context7" },
+    { "name": "agentic-awesome-skills", "source": "./plugins/agentic-awesome-skills" },
+    { "name": "last30days", "source": "./plugins/last30days" },
+    { "name": "code-simplifier", "source": "./plugins/code-simplifier" },
+    { "name": "security-scanning", "source": "./plugins/security-scanning" },
+    { "name": "systems-programming", "source": "./plugins/systems-programming" },
+    { "name": "codex", "source": "./plugins/codex" },
+    { "name": "data-engineering", "source": "./plugins/data-engineering" },
+    { "name": "code-modernization", "source": "./plugins/code-modernization" },
+    { "name": "open-design", "source": "./plugins/open-design" }
+  ]
+}
